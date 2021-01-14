@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435378709297",
+    "firebase_url": "https://clicku-dce8f.firebaseio.com",
+    "project_id": "clicku-dce8f",
+    "storage_bucket": "clicku-dce8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435378709297:android:5993087766db477cf94610",
+        "android_client_info": {
+          "package_name": "com.store.clikcus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435378709297-0kibfvfe4sgslodaog4cp5cmvn510qd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSmhWFC5q7e6xYBg1-uNZjQzx3ueL6-lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435378709297-0kibfvfe4sgslodaog4cp5cmvn510qd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

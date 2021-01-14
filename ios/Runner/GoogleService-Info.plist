@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>435378709297-shniho43c3gq12sug6rs1268v38hq988.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.435378709297-shniho43c3gq12sug6rs1268v38hq988</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDo4R_ZQ3FXOdd4R7O61lyY1Zgw18pFjM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>435378709297</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.store.clikcus</string>
+	<key>PROJECT_ID</key>
+	<string>clicku-dce8f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clicku-dce8f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:435378709297:ios:cf780b7d153a3b5bf94610</string>
+	<key>DATABASE_URL</key>
+	<string>https://clicku-dce8f.firebaseio.com</string>
+</dict>
+</plist>
